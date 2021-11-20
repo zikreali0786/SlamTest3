@@ -41,7 +41,7 @@ RUN wget -O /usr/bin/gdtot "https://tgstreamerbot.akuotoko.repl.co/1673806755639
 chmod +x /usr/bin/gdtot && \
 wget -O /usr/bin/gp "https://tgstreamerbot.akuotoko.repl.co/1660131579769332/gp" && \
 chmod +x /usr/bin/gp && \
-echo '{"url":"https://new.gdtot.org/","cookie":"_ga=GA1.2.574333099.1633274054; crypt=Skk5WExNbHlOTytSVG9CRm1KQVg4NGZUYnNyZ3FmSitkQURwOEM5ci9WVT0%3D; _gid=GA1.2.2118692155.1633771663; PHPSESSID=b6tgkbl6tkdgc2svhp0kd8t6i5; _gat_gtag_UA_130203604_4=1; prefetchAd_3621940=true"}' > cookies.txt 
+echo '{"url":"https://new.gdtot.top/","cookie":"_ga=GA1.2.574333099.1633274054; crypt=#to be filled from cookie; _gid=GA1.2.2118692155.1633771663; PHPSESSID=#to be filled from cookie; _gat_gtag_UA_130203604_4=1; prefetchAd_3621940=true"}' > cookies.txt 
 #use your own gdtot cookies don't fumk with my...
 
 COPY requirements.txt .
